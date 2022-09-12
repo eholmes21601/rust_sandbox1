@@ -32,6 +32,6 @@ pub fn run()
     println!("{}", s);
 
     // Assertion testing
-    assert_eq!(2, s.len());
-    assert_ne!(2, s.len());
+   // assert_eq!(2, s.len());
+   // assert_ne!(2, s.len());
 }
